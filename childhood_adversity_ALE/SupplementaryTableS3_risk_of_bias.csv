@@ -1,0 +1,10 @@
+Source,D1 Sample,D2 Adversity,D3 Task,D4 Preprocessing,D5 Correction,D6 Reporting,Total (0-12),Template space,Correction method as reported,Inference
+"Birn et al, 2017",0,1,1,1,1,0,4,"Talairach in Methods, MNI in table; contradictory","AFNI 3dClustSim ACF; voxel p, k and iterations not stated",Whole brain
+"Casement et al, 2015",1,1,1,0,0,1,4,MNI (table footnote),AFNI AlphaSim over 4 a priori ROIs; parameters not stated,ROI-restricted
+"Richter et al, 2019",2,1,0,1,0,1,5,MNI,"SVC on VS/VTA/HP spheres, or P<.005 uncorrected k>=10","Hybrid, mainly SVC"
+"Aloi et al, 2024",1,2,1,2,1,2,9,Talairach (converted),"AFNI 3dClustSim -acf, 10,000 sims, P=.001, k=17",Whole brain
+"Harms et al, 2018",1,2,1,2,1,0,7,"Talairach in Methods, MNI in table; contradictory","AFNI 3dClustSim ACF, 10,000 sims, P<.005, k=34 (417 mm3)",Whole brain
+"Seitz et al, 2023",2,2,1,2,2,2,11,MNI,"Cluster-level FWE P<.05, voxel P<.001, k>320",Whole brain (ROI rows excluded)
+"Gerin et al, 2017",2,2,2,1,1,1,9,MNI,"Whole-brain 3dClustSim P<.005, ke=75; iterations not stated",Whole brain
+"DelDonno et al, 2019",1,1,0,0,1,2,5,MNI,"AFNI 3dClustSim (bug-fixed), 1000 sims, P<.005, >=464 mm3",Whole brain
+"Yang et al, 2021",1,2,2,2,1,1,9,Talairach (converted),"AFNI 3dClustSim -acf NN1, P<.005, k>=58",Whole brain

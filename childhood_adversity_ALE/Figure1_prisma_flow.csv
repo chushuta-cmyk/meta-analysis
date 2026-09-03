@@ -1,0 +1,22 @@
+stage,node,label,count
+Identification,records_identified,Records identified from databases,919
+Identification,pubmed,PubMed,338
+Identification,scopus,Scopus,305
+Identification,web_of_science,Web of Science Core Collection,276
+Identification,duplicates_removed,Duplicate records removed before screening,468
+Screening,records_screened,Records screened on title and abstract,451
+Screening,records_excluded,Records excluded,428
+Screening,fulltext_assessed,Reports assessed for eligibility in full text,23
+Screening,fulltext_excluded,Reports excluded,8
+Included,publications_included,Publications included in systematic review,15
+Included,independent_cohorts,Independent cohorts,12
+Included,participants_reviewed,Participants in systematic review,1126
+Included,contrasts_extracted,Adversity-related contrasts extracted,21
+Included,contrasts_excluded,Contrasts not eligible for primary models,11
+Included,modelA_experiments,Model A experiments,7
+Included,modelA_foci,Model A foci,30
+Included,modelA_participants,Model A participants,684
+Included,modelB_experiments,Model B experiments,3
+Included,modelB_foci,Model B foci,16
+Included,modelB_participants,Model B participants,132
+Included,participants_any_model,Participants in at least one model,779

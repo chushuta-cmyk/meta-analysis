@@ -1,0 +1,8 @@
+Model,Direction,No. of experiments,No. of foci,No. of participants,Cluster-forming threshold,"Minimum cluster volume, mm³",Voxel-level FWE threshold,Peak ALE value,Outcome
+A (primary),Hypoactivation,7,30,684,P < .001,456,0.01674,0.01111,No cluster survived
+A (exploratory threshold),Hypoactivation,7,30,684,P < .005,1400,0.01695,0.01111,No cluster survived
+A (voxel-level),Hypoactivation,7,30,684,Not applicable,100,0.01674,0.01111,No voxel survived
+B (primary),Hyperactivation,3,16,132,P < .001,464,0.01265,0.00989,No cluster survived
+A1 (sensitivity: monetary only),Hypoactivation,6,26,566,P < .001,480,0.01625,0.01111,No cluster survived
+A2 (sensitivity: cohort overlap),Hypoactivation,7,29,648,P < .001,480,0.01648,0.01253,No cluster survived
+A3 (sensitivity: eligibility corrected),Hypoactivation,5,23,430,P < .001,464,0.01531,0.01077,No cluster survived

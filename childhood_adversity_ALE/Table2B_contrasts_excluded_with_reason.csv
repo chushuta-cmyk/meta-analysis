@@ -1,0 +1,12 @@
+Source,Contrast ID,Contrast description,Reason for exclusion
+"Birn et al., 2017",BIR-L-hypo,"High vs low stress, loss anticipation",Loss valence; recorded separately to keep valence constant within models
+"Birn et al., 2017",BIR-L-hyper,"High vs low stress, response to actual loss",Loss valence; recorded separately
+"Casement et al., 2015",CAS-O-hypo,"Stress severity, reward outcome",Same subject group already represented in Model A by the anticipation contrast
+"Yang et al., 2021",YAN-I,"Abuse × neglect interaction, anticipation and feedback",Higher-order interaction term
+"Yang et al., 2021",YAN-O-hyper,"Abuse severity, feedback-phase condition difference",Same subject group already represented in Model B
+"Blair et al., 2022",BLA-L,Maltreatment subtype × reinforcement value,"Higher-order interaction; cohort overlap with Aloi et al., 2024"
+"Boecker-Schlier et al., 2016",BOE-A,"Adversity × COMT Val158Met, reward anticipation","Gene × environment interaction; cohort overlap with Holz et al., 2017"
+"Holz et al., 2017",HOL-A,"Adversity, ventral striatal anticipation response","ROI-restricted, small-volume corrected; cohort overlap with Boecker-Schlier et al., 2016"
+"Hanson et al., 2015",HAN-A,"Emotional neglect, ventral striatal developmental change","ROI-restricted, longitudinal change score"
+"Armbruster-Genç et al., 2025",ARM25-O,"MT < NMT, outcome processing in volatile vs stable context",Prespecified ROI analysis; context × group interaction
+"Armbruster-Genç et al., 2022",ARM22-O,"MT < NMT, effort-related ACC response",Prespecified ACC ROI analysis

@@ -1,0 +1,11 @@
+model,direction,source,foci,share_percent,participants
+A,hypoactivation,"Birn et al., 2017",6,20.0,44
+A,hypoactivation,"Gerin et al., 2017",6,20.0,37
+A,hypoactivation,"Harms et al., 2018",4,13.3,53
+A,hypoactivation,"Richter et al., 2019",4,13.3,97
+A,hypoactivation,"Seitz et al., 2023",4,13.3,118
+A,hypoactivation,"Aloi et al., 2024",3,10.0,178
+A,hypoactivation,"Casement et al., 2015",3,10.0,157
+B,hyperactivation,"DelDonno et al., 2019",6,37.5,50
+B,hyperactivation,"Gerin et al., 2017",6,37.5,37
+B,hyperactivation,"Yang et al., 2021",4,25.0,45

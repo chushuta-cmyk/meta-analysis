@@ -1,0 +1,49 @@
+Focus,Model,Source,Contrast,Stage,Region as reported,Anatomical label at peak (MNI152),Side,x,y,z,Template space
+F01,A (hypo),"Birn et al, 2017",BIR-A-hypo,Anticipation,Precuneus,Precuneus,L,-18,-61,21,Talairach/MNI discrepant
+F02,A (hypo),"Birn et al, 2017",BIR-A-hypo,Anticipation,Lingual gyrus / cerebellum,"Lingual gyrus, cerebellum Crus I",R,28,-76,-12,Talairach/MNI discrepant
+F03,A (hypo),"Birn et al, 2017",BIR-A-hypo,Anticipation,Precentral gyrus,Precentral gyrus,L,-36,-14,30,Talairach/MNI discrepant
+F04,A (hypo),"Birn et al, 2017",BIR-A-hypo,Anticipation,Middle temporal gyrus,"Middle temporal gyrus, posterior",R,59,-45,-3,Talairach/MNI discrepant
+F05,A (hypo),"Birn et al, 2017",BIR-A-hypo,Anticipation,Middle temporal gyrus,Middle occipital gyrus / angular gyrus,L,-38,-76,26,Talairach/MNI discrepant
+F06,A (hypo),"Birn et al, 2017",BIR-A-hypo,Anticipation,Middle frontal gyrus,Middle frontal gyrus,R,30,20,49,Talairach/MNI discrepant
+F07,A (hypo),"Casement et al, 2015",CAS-A-hypo,Anticipation,mPFC (BA10),Superior medial frontal gyrus (BA10),R,6,64,14,MNI
+F08,A (hypo),"Casement et al, 2015",CAS-A-hypo,Anticipation,ACC / mPFC (BA24/32),"Superior medial frontal gyrus, dorsal ACC border",L,-14,34,38,MNI
+F09,A (hypo),"Casement et al, 2015",CAS-A-hypo,Anticipation,ACC / mPFC,"Anterior cingulate cortex, caudate head border",R,20,34,10,MNI
+F10,A (hypo),"Richter et al, 2019",RIC-O-hypo,Outcome / valuation,Ventral striatum,Ventral striatum / nucleus accumbens,R,12,14,-2,MNI
+F11,A (hypo),"Richter et al, 2019",RIC-O-hypo,Outcome / valuation,Ventral striatum,Ventral striatum / nucleus accumbens,L,-10,12,-2,MNI
+F12,A (hypo),"Richter et al, 2019",RIC-O-hypo,Outcome / valuation,Ventral tegmental area,Ventral tegmental area / midbrain,L,-6,-18,-14,MNI
+F13,A (hypo),"Richter et al, 2019",RIC-O-hypo,Outcome / valuation,Hippocampus,"Hippocampus, posterior",R,24,-38,2,MNI
+F14,A (hypo),"Aloi et al, 2024",ALO-L-hypo,Learning / RPE,Rostromedial PFC,Superior medial frontal gyrus,R,8,44,29,Talairach (converted)
+F15,A (hypo),"Aloi et al, 2024",ALO-L-hypo,Learning / RPE,ACC / vmPFC,Anterior cingulate cortex,R,5,41,11,Talairach (converted)
+F16,A (hypo),"Aloi et al, 2024",ALO-L-hypo,Learning / RPE,Dorsolateral PFC,"Superior frontal gyrus, rostral (BA10)",R,20,59,26,Talairach (converted)
+F17,A (hypo),"Harms et al, 2018",HAR-O-hypo,Outcome / feedback,Middle frontal gyrus,Middle frontal gyrus,L,-48,22,38,Talairach (converted)
+F18,A (hypo),"Harms et al, 2018",HAR-O-hypo,Outcome / feedback,Middle frontal gyrus,Middle frontal gyrus,R,46,30,32,Talairach (converted)
+F19,A (hypo),"Harms et al, 2018",HAR-O-hypo,Outcome / feedback,Cuneus,Cuneus,R,13,-93,16,Talairach (converted)
+F20,A (hypo),"Harms et al, 2018",HAR-O-hypo,Outcome / feedback,Cerebellum,"Cerebellum, lobule VI / Crus I",R,31,-59,-39,Talairach (converted)
+F21,A (hypo),"Seitz et al, 2023",SEI-A-hypo,Anticipation,ACC / vmPFC / OFC,"Superior medial frontal gyrus, rostral ACC",R,4,58,-4,MNI
+F22,A (hypo),"Seitz et al, 2023",SEI-A-hypo,Anticipation,Middle / superior frontal gyrus,Superior frontal gyrus,L,-12,28,46,MNI
+F23,A (hypo),"Seitz et al, 2023",SEI-A-hypo,Anticipation,Insula / IFG / STG,"Anterior insula, IFG pars orbitalis",L,-36,28,-6,MNI
+F24,A (hypo),"Seitz et al, 2023",SEI-A-hypo,Anticipation,Insula / IFG / STG,Anterior insula,R,42,14,-10,MNI
+F25,A (hypo),"Gerin et al, 2017",GER-L-hypo,Learning / EV,Subthalamic nucleus / GP / lOFC / insula / thalamus,Subthalamic nucleus / substantia nigra,L,-12,-16,-8,MNI
+F26,A (hypo),"Gerin et al, 2017",GER-L-hypo,Learning / EV,lOFC / GP / insula / mOFC,Rostral middle frontal gyrus / lateral OFC,R,30,47,-8,MNI
+F27,A (hypo),"Gerin et al, 2017",GER-L-hypo,Learning / EV,Globus pallidus / VS / mOFC / lOFC,Dorsal caudate / putamen,R,18,-7,18,MNI
+F28,A (hypo),"Gerin et al, 2017",GER-L-hypo,Learning / EV,Insula / MTG / STG / dorsal striatum,Superior temporal gyrus / posterior insula,R,42,-25,-5,MNI
+F29,A (hypo),"Gerin et al, 2017",GER-L-hypo,Learning / EV,PCC / MTG / STG / calcarine,Middle temporal gyrus,L,-57,-31,-8,MNI
+F30,A (hypo),"Gerin et al, 2017",GER-L-hypo,Learning / EV,MTL / hippocampus,Posterior cingulate cortex,L,-6,-34,25,MNI
+F31,B (hyper),"DelDonno et al, 2019",DEL-A-hyper,Anticipation,Thalamus,Thalamus,L,-12,-32,14,MNI
+F32,B (hyper),"DelDonno et al, 2019",DEL-A-hyper,Anticipation,Midbrain,Midbrain,R,6,-14,-18,MNI
+F33,B (hyper),"DelDonno et al, 2019",DEL-A-hyper,Anticipation,Rolandic operculum / insula,Parietal operculum / posterior insula,L,-46,-22,22,MNI
+F34,B (hyper),"DelDonno et al, 2019",DEL-A-hyper,Anticipation,Medial frontal gyrus,Paracentral lobule / supplementary motor area,R,4,-30,62,MNI
+F35,B (hyper),"DelDonno et al, 2019",DEL-A-hyper,Anticipation,Cerebellum (anterior),"Cerebellum, lobules IV-V",R,24,-38,-24,MNI
+F36,B (hyper),"DelDonno et al, 2019",DEL-A-hyper,Anticipation,Midbrain,Dorsomedial thalamus,R,4,-14,20,MNI
+F37,B (hyper),"Yang et al, 2021",YAN-A-hyper,Anticipation,Precentral gyrus,"Middle temporal gyrus, anterior",R,49,-5,-26,Talairach (converted)
+F38,B (hyper),"Yang et al, 2021",YAN-A-hyper,Anticipation,Middle frontal gyrus,Lateral OFC / IFG pars orbitalis,R,37,23,-24,Talairach (converted)
+F39,B (hyper),"Yang et al, 2021",YAN-A-hyper,Anticipation,Anterior cingulate,"Anterior cingulate cortex, lateral extent",R,25,33,12,Talairach (converted)
+F40,B (hyper),"Yang et al, 2021",YAN-A-hyper,Anticipation,Middle / superior frontal gyrus,Rostral middle frontal gyrus,R,27,47,-4,Talairach (converted)
+F41,B (hyper),"Gerin et al, 2017",GER-L-hyper,Learning / RPE,dmPFC / dlPFC (BA9),"Superior frontal gyrus, medial (BA9/10)",R,6,59,37,MNI
+F42,B (hyper),"Gerin et al, 2017",GER-L-hyper,Learning / RPE,dACC / MCC / dmPFC / dlPFC / putamen,Dorsal anterior cingulate / midcingulate cortex,L,-9,8,31,MNI
+F43,B (hyper),"Gerin et al, 2017",GER-L-hyper,Learning / RPE,Precuneus / PCC,Precuneus / posterior cingulate cortex,L,-12,-61,19,MNI
+F44,B (hyper),"Gerin et al, 2017",GER-L-hyper,Learning / RPE,STG / supramarginal gyrus,Superior temporal gyrus / supramarginal gyrus,L,-60,-40,13,MNI
+F45,B (hyper),"Gerin et al, 2017",GER-L-hyper,Learning / RPE,MCC / postcentral gyrus,Midcingulate cortex,L,-18,-34,37,MNI
+F46,B (hyper),"Gerin et al, 2017",GER-L-hyper,Learning / RPE,Thalamus,Thalamus,L,-12,-22,3,MNI
+F47,A2 (sensitivity),"Blair et al, 2022",BLA-L-hypo,Learning / RPE,Rostromedial PFC,Superior medial frontal gyrus,L,-10,50,21,Talairach (converted)
+F48,A2 (sensitivity),"Blair et al, 2022",BLA-L-hypo,Learning / RPE,Caudate,Caudate head / ventral striatum,R,13,-7,25,Talairach (converted)

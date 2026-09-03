@@ -1,0 +1,43 @@
+Section,Item,Checklist item,Reported in
+Title,1,Identify the report as a systematic review,Title
+Abstract,2,See PRISMA 2020 for Abstracts checklist,Abstract
+Introduction,3,Describe the rationale for the review,"Introduction, paragraphs 1-5"
+,4,Provide an explicit statement of the objectives,"Introduction, final paragraph"
+Methods,5,Specify inclusion and exclusion criteria and how studies were grouped,"Methods, Study Selection"
+,6,Specify all databases and sources searched and the date last searched,"Methods, Search Strategy"
+,7,Present the full search strategy for all databases,"Methods, Search Strategy"
+,8,Specify the methods used to decide whether a study met the criteria,"Methods, Study Selection"
+,9,Specify the methods used to collect data from reports,"Methods, Data Extraction"
+,10a,List and define all outcomes for which data were sought,"Methods, Data Extraction; Statistical Analysis"
+,10b,List and define all other variables for which data were sought,"Methods, Data Extraction"
+,11,Specify the methods used to assess risk of bias,"Methods, Risk of Bias Assessment; Supplementary Table S3"
+,12,Specify the effect measure used in the synthesis,"Methods, Statistical Analysis"
+,13a,Describe processes deciding which studies were eligible for each synthesis,"Methods, Study Selection; Table 2"
+,13b,Describe methods required to prepare the data for synthesis,"Methods, Coordinate Handling"
+,13c,Describe methods used to tabulate or visually display results,"Methods, Evidence Map; Figures 1-2"
+,13d,Describe methods used to synthesize results and the rationale,"Methods, Primary ALE Models"
+,13e,Describe methods used to explore causes of heterogeneity,"Methods, Evidence Map; Results"
+,13f,Describe any sensitivity analyses conducted,"Methods, Sensitivity Analyses; Table 4"
+,14,Describe methods to assess risk of bias due to missing results,"Discussion, Limitations"
+,15,Describe methods to assess certainty in the body of evidence,"Methods, Evaluation of Statistical Power; Table 5"
+Results,16a,Describe the results of the search and selection process,"Results, Search and Study Selection; Figure 1"
+,16b,Cite studies that met many but not all inclusion criteria,"Table 2, sections B and C"
+,17,Cite each included study and present its characteristics,Table 1
+,18,Present assessments of risk of bias for each included study,Supplementary Table S3
+,19,Present all results for all outcomes for each study,Table 3; Supplementary Table S2
+,20a,Summarize characteristics and risk of bias of contributing studies,"Results, Characteristics of the Evidence Base"
+,20b,Present results of all statistical syntheses,"Results, Spatial Convergence; Table 4"
+,20c,Present results of investigations of causes of heterogeneity,"Results, Contrasts Not Entering the Quantitative Models"
+,20d,Present results of all sensitivity analyses,Table 4
+,21,Present assessments of risk of bias due to missing results,"Discussion, Limitations"
+,22,Present assessments of certainty in the body of evidence,"Results, Statistical Power; Table 5"
+Discussion,23a,Provide a general interpretation of the results,"Discussion, paragraphs 1-9"
+,23b,Discuss limitations of the evidence included,"Discussion, Limitations"
+,23c,Discuss limitations of the review processes used,"Discussion, Limitations"
+,23d,"Discuss implications for practice, policy and future research","Discussion, paragraphs 10-13"
+Other,24a,Provide registration information,"Methods, Protocol, Registration, and Reporting"
+,24b,Indicate where the protocol can be accessed,"Methods, Protocol, Registration, and Reporting"
+,24c,Describe and explain any amendments,"Methods, Deviations From the Protocol"
+,25,Describe sources of support and the role of funders,"Declarations, Funding"
+,26,Declare any competing interests,"Declarations, Competing Interests"
+,27,Report which materials are publicly available and where,"Declarations, Data Availability"
